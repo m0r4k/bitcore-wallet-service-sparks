@@ -41,12 +41,12 @@ var config = {
     btc: {
       livenet: {
         provider: 'insight',
-        url: 'https://insight.sparksevo.org:443',
+        url: 'https://insight.dynv6.net:443',
         apiPrefix:'/insight-api-sparks'
       },
       testnet: {
         provider: 'insight',
-        url: 'https://testnet-insight.sparksevo.org:443',
+        url: 'https://testnet-insight.dynv6.net:443',
         apiPrefix:'/insight-api-sparks'
         // url: 'http://localhost:3001',
         // Multiple servers (in priority order)
