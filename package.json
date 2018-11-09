@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-wallet-service-sparks",
+  "name": "@sparksevo/bitcore-wallet-service-sparks",
   "description": "A service for Mutisig HD Sparks Wallets",
   "author": "BitPay Inc",
   "version": "2.3.6",
@@ -13,11 +13,11 @@
     "BWS"
   ],
   "repository": {
-    "url": "git@github.com:sparksevo/bitcore-wallet-service-sparks.git",
+    "url": "git@github.com:sparksevo/@sparksevo/bitcore-wallet-service-sparks.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/sparksevo/bitcore-wallet-service-sparks/issues"
+    "url": "https://github.com/sparksevo/@sparksevo/bitcore-wallet-service-sparks/issues"
   },
   "dependencies": {
     "async": "^0.9.2",

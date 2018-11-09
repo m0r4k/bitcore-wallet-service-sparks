@@ -1,9 +1,9 @@
 
-# bitcore-wallet-service-sparks
+# @sparksevo/bitcore-wallet-service-sparks
 
-[![NPM Package](https://img.shields.io/npm/v/bitcore-wallet-service-sparks.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-wallet-service-sparks)
-[![Build Status](https://img.shields.io/travis/sparksevo/bitcore-wallet-service-sparks.svg?branch=master&style=flat-square)](https://travis-ci.org/sparksevo/bitcore-wallet-service-sparks)
-[![Coverage Status](https://coveralls.io/repos/sparksevo/bitcore-wallet-service-sparks/badge.svg?branch=master)](https://coveralls.io/r/sparksevo/bitcore-wallet-service-sparks?branch=master)
+[![NPM Package](https://img.shields.io/npm/v/@sparksevo/bitcore-wallet-service-sparks.svg?style=flat-square)](https://www.npmjs.org/package/@sparksevo/bitcore-wallet-service-sparks)
+[![Build Status](https://img.shields.io/travis/sparksevo/@sparksevo/bitcore-wallet-service-sparks.svg?branch=master&style=flat-square)](https://travis-ci.org/sparksevo/@sparksevo/bitcore-wallet-service-sparks)
+[![Coverage Status](https://coveralls.io/repos/sparksevo/@sparksevo/bitcore-wallet-service-sparks/badge.svg?branch=master)](https://coveralls.io/r/sparksevo/@sparksevo/bitcore-wallet-service-sparks?branch=master)
 
 A Multisig HD Bitcore Wallet Service.
 
@@ -21,8 +21,8 @@ More about BWS at https://blog.bitpay.com/announcing-the-bitcore-wallet-suite/
 
 # Getting Started
 ```
- git clone https://github.com/sparksevo/bitcore-wallet-service-sparks.git
- cd bitcore-wallet-service-sparks && npm start
+ git clone https://github.com/sparksevo/@sparksevo/bitcore-wallet-service-sparks.git
+ cd @sparksevo/bitcore-wallet-service-sparks && npm start
 ```
 
 This will launch the BWS service (with default settings) at `http://localhost:3232/bws/api`.
