@@ -5,7 +5,7 @@ var chai = require('chai');
 var sinon = require('sinon');
 var should = chai.should();
 var TxProposal = require('../../lib/model/txproposal');
-var Bitcore = require('@sparksevo/sparkscore-lib');
+var Bitcore = require('bitcore-lib-sparks');
 
 describe('TxProposal', function() {
   describe('#create', function() {

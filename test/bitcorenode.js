@@ -2,7 +2,7 @@
 
 var should = require('chai').should();
 var proxyquire = require('proxyquire');
-var bitcore = require('@sparksevo/sparkscore-lib');
+var bitcore = require('bitcore-lib-sparks');
 var sinon = require('sinon');
 var Service = require('../bitcorenode');
 

@@ -12,7 +12,7 @@ describe('Blockchain explorer', function() {
       var exp = new BlockchainExplorer({
         provider: 'insight',
         network: 'testnet',
-        url: 'https://spk.coinref.xyz/insight'
+        url: 'https://insight.sparkspay.io/insight'
       });
       should.exist(exp);
       exp.should.respondTo('broadcast');
@@ -24,7 +24,7 @@ describe('Blockchain explorer', function() {
       var exp = new BlockchainExplorer({
         provider: 'insight',
         network: 'livenet',
-        url: 'https://spk.coinref.xyz/insight'
+        url: 'https://insight.sparkspay.io/insight'
       });
       should.exist(exp);
     });
@@ -40,7 +40,7 @@ describe('Blockchain explorer', function() {
         (function() {
             var exp = new BlockchainExplorer({
                 network: 'testnet',
-                url: 'https://spk.coinref.xyz/insight'
+                url: 'https://insight.sparkspay.io/insight'
             });
         }).should.throw('Missing provider in config file');
     });
@@ -48,7 +48,7 @@ describe('Blockchain explorer', function() {
         (function() {
             var exp = new BlockchainExplorer({
                 provider: 'insight',
-                url: 'https://spk.coinref.xyz/insight'
+                url: 'https://insight.sparkspay.io/insight'
             });
         }).should.throw('Missing network in config file');
     });
@@ -57,7 +57,7 @@ describe('Blockchain explorer', function() {
         var exp = new BlockchainExplorer({
           provider: 'dummy',
           network: 'testnet',
-          url: 'https://spk.coinref.xyz/insight'
+          url: 'https://insight.sparkspay.io/insight'
         });
       }).should.throw('not supported');
     });
