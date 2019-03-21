@@ -2,8 +2,8 @@
 # bitcore-wallet-service-sparks
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-wallet-service-sparks.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-wallet-service-sparks)
-[![Build Status](https://img.shields.io/travis/sparksevo/bitcore-wallet-service-sparks.svg?branch=master&style=flat-square)](https://travis-ci.org/sparksevo/bitcore-wallet-service-sparks)
-[![Coverage Status](https://coveralls.io/repos/sparksevo/bitcore-wallet-service-sparks/badge.svg?branch=master)](https://coveralls.io/r/sparksevo/bitcore-wallet-service-sparks?branch=master)
+[![Build Status](https://img.shields.io/travis/bitcore-wallet-service-sparks.svg?branch=master&style=flat-square)](https://travis-ci.org/bitcore-wallet-service-sparks)
+[![Coverage Status](https://coveralls.io/repos/bitcore-wallet-service-sparks/badge.svg?branch=master)](https://coveralls.io/r/bitcore-wallet-service-sparks?branch=master)
 
 A Multisig HD Bitcore Wallet Service.
 

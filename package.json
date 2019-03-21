@@ -13,7 +13,7 @@
     "BWS"
   ],
   "repository": {
-    "url": "git@github.com:sparksevo/bitcore-wallet-service-sparks.git",
+    "url": "git@github.com:bitcore-wallet-service-sparks.git",
     "type": "git"
   },
   "bugs": {
