@@ -43,15 +43,15 @@ var config = {
         provider: 'insight',
         url: 'https://spk.coinref.xyz:443',
         apiPrefix:'/insight-api-sparks'
-      },
-      testnet: {
-        provider: 'insight',
-        url: 'https://testnet-spk.coinref.xyz:443/insight',
-        apiPrefix:'/insight-api-sparks'
+      }//,
+      //testnet: {
+        //provider: 'insight',
+        //url: 'https://testnet-spk.coinref.xyz:443/insight',
+        //apiPrefix:'/insight-api-sparks'
         // url: 'http://localhost:3001',
         // Multiple servers (in priority order)
         // url: ['http://a.b.c', 'https://test-insight.bitpay.com:443'],
-      },
+      //},
     }
   },
   pushNotificationsOpts: {
