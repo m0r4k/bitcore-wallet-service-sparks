@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@dashevo/x11-hash-js": "1.0.2",
-    "bitcore-lib-sparks": "git+https://github.com/m0r4k/bitcore-lib-sparks.git#development",
+    "bitcore-lib-sparks": "git+https://github.com/m0r4k/bitcore-lib-sparks.git#0.16.8",
     "async": "^0.9.2",
     "bitcore-lib-cash": "^8.0.0",
     "body-parser": "^1.11.0",
