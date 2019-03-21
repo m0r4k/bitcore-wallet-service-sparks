@@ -10,7 +10,7 @@ var log = require('npmlog');
 log.debug = log.verbose;
 log.level = 'info';
 
-var Bitcore = require('@sparksevo/sparkscore-lib');
+var Bitcore = require('bitcore-lib-sparks');
 var Bitcore_ = {
   btc: Bitcore,
   bch: require('bitcore-lib-cash')
