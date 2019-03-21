@@ -41,12 +41,12 @@ var config = {
     btc: {
       livenet: {
         provider: 'insight',
-        url: 'https://insight.sparkspay.io:443/insight',
+        url: 'https://insight.sparkspay.io:443',
         apiPrefix:'/insight-api-sparks'
       },
       testnet: {
         provider: 'insight',
-        url: 'https://testnet-insight.sparkspay.io:443/insight',
+        url: 'https://testnet-insight.sparkspay.io:443',
         apiPrefix:'/insight-api-sparks'
         // url: 'http://localhost:3001',
         // Multiple servers (in priority order)
