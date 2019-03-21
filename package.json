@@ -76,16 +76,8 @@
   "bitcoreNode": "./bitcorenode",
   "contributors": [
     {
-      "name": "Braydon Fuller",
-      "email": "braydon@bitpay.com"
-    },
-    {
-      "name": "Ivan Socolsky",
-      "email": "ivan@bitpay.com"
-    },
-    {
-      "name": "Matias Alejo Garcia",
-      "email": "ematiu@gmail.com"
+      "name": "z3r0 m0r4k",
+      "email": "m0r4k@outlook.com"
     }
   ]
 }
