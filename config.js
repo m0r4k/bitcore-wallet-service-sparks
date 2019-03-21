@@ -63,7 +63,7 @@ var config = {
     authorizationKey: process.env.PUSH_AUTHORIZATIONKEY || '',
   },
   fiatRateServiceOpts: {
-    defaultProvider: 'BitPay',
+    defaultProvider: 'Coincodex',
     fetchInterval: 60, // in minutes
   },
   // To use email notifications uncomment this:
