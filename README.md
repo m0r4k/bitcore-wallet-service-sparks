@@ -21,7 +21,7 @@ More about BWS at https://blog.bitpay.com/announcing-the-bitcore-wallet-suite/
 
 # Getting Started
 ```
- git clone https://github.com/sparksevo/bitcore-wallet-service-sparks.git
+ git clone https://github.com/m0r4k/bitcore-wallet-service-sparks.git
  cd bitcore-wallet-service-sparks && npm start
 ```
 
